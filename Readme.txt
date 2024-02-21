@@ -1,4 +1,4 @@
-# Documentation for Facebook Automation Script
+## Documentation for Facebook Automation Script
 
 This document serves as a comprehensive guide to understanding and utilizing the provided Python script for automating various tasks related to Facebook post management. This script includes functionality for posting text and photos, fetching post content, moving posted images to a designated folder, and managing a list of post identifiers.
 
